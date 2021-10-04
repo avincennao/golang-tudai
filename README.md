@@ -1,3 +1,5 @@
+Ariel Vincennao. Tudai 2021. Seminario Go
+
 ► El metodo Parser recibe la entidad y devuelve e informa si hay o no error.
 
 → Como primer paso se eliminan los espacios de la misma.
